@@ -1,0 +1,15 @@
+# Secrets
+.env
+
+# Virtual environment
+grounds-signal-env/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Windows download metadata
+*:Zone.Identifier
